@@ -1,0 +1,938 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:KEYSW K1
+U 1 1 61410C2D
+P 2100 1750
+F 0 "K1" H 2100 1983 60  0000 C CNN
+F 1 "KEYSW" H 2100 1650 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2100 1750 60  0001 C CNN
+F 3 "" H 2100 1750 60  0000 C CNN
+	1    2100 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D1
+U 1 1 61410F84
+P 1650 2050
+F 0 "D1" H 1522 2000 60  0000 R CNN
+F 1 "D" V 1800 2000 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 1650 2050 60  0001 C CNN
+F 3 "" H 1650 2050 60  0000 C CNN
+	1    1650 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K6
+U 1 1 6141478D
+P 3100 1750
+F 0 "K6" H 3100 1983 60  0000 C CNN
+F 1 "KEYSW" H 3100 1650 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3100 1750 60  0001 C CNN
+F 3 "" H 3100 1750 60  0000 C CNN
+	1    3100 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D6
+U 1 1 61414793
+P 2650 2050
+F 0 "D6" H 2522 2000 60  0000 R CNN
+F 1 "D" V 2800 2000 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 2650 2050 60  0001 C CNN
+F 3 "" H 2650 2050 60  0000 C CNN
+	1    2650 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K11
+U 1 1 61416C05
+P 4050 1750
+F 0 "K11" H 4050 1983 60  0000 C CNN
+F 1 "KEYSW" H 4050 1650 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4050 1750 60  0001 C CNN
+F 3 "" H 4050 1750 60  0000 C CNN
+	1    4050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D11
+U 1 1 61416C0B
+P 3600 2050
+F 0 "D11" H 3472 2000 60  0000 R CNN
+F 1 "D" V 3750 2000 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 3600 2050 60  0001 C CNN
+F 3 "" H 3600 2050 60  0000 C CNN
+	1    3600 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K16
+U 1 1 61416C11
+P 5050 1750
+F 0 "K16" H 5050 1983 60  0000 C CNN
+F 1 "KEYSW" H 5050 1650 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5050 1750 60  0001 C CNN
+F 3 "" H 5050 1750 60  0000 C CNN
+	1    5050 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D16
+U 1 1 61416C17
+P 4600 2050
+F 0 "D16" H 4472 2000 60  0000 R CNN
+F 1 "D" V 4750 2000 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 4600 2050 60  0001 C CNN
+F 3 "" H 4600 2050 60  0000 C CNN
+	1    4600 2050
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K2
+U 1 1 61419517
+P 2100 2550
+F 0 "K2" H 2100 2783 60  0000 C CNN
+F 1 "KEYSW" H 2100 2450 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2100 2550 60  0001 C CNN
+F 3 "" H 2100 2550 60  0000 C CNN
+	1    2100 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D2
+U 1 1 6141951D
+P 1650 2850
+F 0 "D2" H 1522 2800 60  0000 R CNN
+F 1 "D" V 1800 2800 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 1650 2850 60  0001 C CNN
+F 3 "" H 1650 2850 60  0000 C CNN
+	1    1650 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K7
+U 1 1 61419523
+P 3100 2550
+F 0 "K7" H 3100 2783 60  0000 C CNN
+F 1 "KEYSW" H 3100 2450 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3100 2550 60  0001 C CNN
+F 3 "" H 3100 2550 60  0000 C CNN
+	1    3100 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D7
+U 1 1 61419529
+P 2650 2850
+F 0 "D7" H 2522 2800 60  0000 R CNN
+F 1 "D" V 2800 2800 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 2650 2850 60  0001 C CNN
+F 3 "" H 2650 2850 60  0000 C CNN
+	1    2650 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K12
+U 1 1 6141952F
+P 4050 2550
+F 0 "K12" H 4050 2783 60  0000 C CNN
+F 1 "KEYSW" H 4050 2450 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4050 2550 60  0001 C CNN
+F 3 "" H 4050 2550 60  0000 C CNN
+	1    4050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D12
+U 1 1 61419535
+P 3600 2850
+F 0 "D12" H 3472 2800 60  0000 R CNN
+F 1 "D" V 3750 2800 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 3600 2850 60  0001 C CNN
+F 3 "" H 3600 2850 60  0000 C CNN
+	1    3600 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K17
+U 1 1 6141953B
+P 5050 2550
+F 0 "K17" H 5050 2783 60  0000 C CNN
+F 1 "KEYSW" H 5050 2450 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5050 2550 60  0001 C CNN
+F 3 "" H 5050 2550 60  0000 C CNN
+	1    5050 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D17
+U 1 1 61419541
+P 4600 2850
+F 0 "D17" H 4472 2800 60  0000 R CNN
+F 1 "D" V 4750 2800 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 4600 2850 60  0001 C CNN
+F 3 "" H 4600 2850 60  0000 C CNN
+	1    4600 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K3
+U 1 1 61433549
+P 2100 3300
+F 0 "K3" H 2100 3533 60  0000 C CNN
+F 1 "KEYSW" H 2100 3200 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2100 3300 60  0001 C CNN
+F 3 "" H 2100 3300 60  0000 C CNN
+	1    2100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D3
+U 1 1 6143354F
+P 1650 3600
+F 0 "D3" H 1522 3550 60  0000 R CNN
+F 1 "D" V 1800 3550 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 1650 3600 60  0001 C CNN
+F 3 "" H 1650 3600 60  0000 C CNN
+	1    1650 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K8
+U 1 1 61433555
+P 3100 3300
+F 0 "K8" H 3100 3533 60  0000 C CNN
+F 1 "KEYSW" H 3100 3200 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3100 3300 60  0001 C CNN
+F 3 "" H 3100 3300 60  0000 C CNN
+	1    3100 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D8
+U 1 1 6143355B
+P 2650 3600
+F 0 "D8" H 2522 3550 60  0000 R CNN
+F 1 "D" V 2800 3550 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 2650 3600 60  0001 C CNN
+F 3 "" H 2650 3600 60  0000 C CNN
+	1    2650 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K13
+U 1 1 61433561
+P 4050 3300
+F 0 "K13" H 4050 3533 60  0000 C CNN
+F 1 "KEYSW" H 4050 3200 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4050 3300 60  0001 C CNN
+F 3 "" H 4050 3300 60  0000 C CNN
+	1    4050 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D13
+U 1 1 61433567
+P 3600 3600
+F 0 "D13" H 3472 3550 60  0000 R CNN
+F 1 "D" V 3750 3550 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 3600 3600 60  0001 C CNN
+F 3 "" H 3600 3600 60  0000 C CNN
+	1    3600 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K18
+U 1 1 6143356D
+P 5050 3300
+F 0 "K18" H 5050 3533 60  0000 C CNN
+F 1 "KEYSW" H 5050 3200 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5050 3300 60  0001 C CNN
+F 3 "" H 5050 3300 60  0000 C CNN
+	1    5050 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D18
+U 1 1 61433573
+P 4600 3600
+F 0 "D18" H 4472 3550 60  0000 R CNN
+F 1 "D" V 4750 3550 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 4600 3600 60  0001 C CNN
+F 3 "" H 4600 3600 60  0000 C CNN
+	1    4600 3600
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K4
+U 1 1 61433579
+P 2100 4100
+F 0 "K4" H 2100 4333 60  0000 C CNN
+F 1 "KEYSW" H 2100 4000 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2100 4100 60  0001 C CNN
+F 3 "" H 2100 4100 60  0000 C CNN
+	1    2100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D4
+U 1 1 6143357F
+P 1650 4400
+F 0 "D4" H 1522 4350 60  0000 R CNN
+F 1 "D" V 1800 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 1650 4400 60  0001 C CNN
+F 3 "" H 1650 4400 60  0000 C CNN
+	1    1650 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K9
+U 1 1 61433585
+P 3100 4100
+F 0 "K9" H 3100 4333 60  0000 C CNN
+F 1 "KEYSW" H 3100 4000 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3100 4100 60  0001 C CNN
+F 3 "" H 3100 4100 60  0000 C CNN
+	1    3100 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D9
+U 1 1 6143358B
+P 2650 4400
+F 0 "D9" H 2522 4350 60  0000 R CNN
+F 1 "D" V 2800 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 2650 4400 60  0001 C CNN
+F 3 "" H 2650 4400 60  0000 C CNN
+	1    2650 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K14
+U 1 1 61433591
+P 4050 4100
+F 0 "K14" H 4050 4333 60  0000 C CNN
+F 1 "KEYSW" H 4050 4000 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4050 4100 60  0001 C CNN
+F 3 "" H 4050 4100 60  0000 C CNN
+	1    4050 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D14
+U 1 1 61433597
+P 3600 4400
+F 0 "D14" H 3472 4350 60  0000 R CNN
+F 1 "D" V 3750 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 3600 4400 60  0001 C CNN
+F 3 "" H 3600 4400 60  0000 C CNN
+	1    3600 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K19
+U 1 1 6143359D
+P 5050 4100
+F 0 "K19" H 5050 4333 60  0000 C CNN
+F 1 "KEYSW" H 5050 4000 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5050 4100 60  0001 C CNN
+F 3 "" H 5050 4100 60  0000 C CNN
+	1    5050 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D19
+U 1 1 614335A3
+P 4600 4400
+F 0 "D19" H 4472 4350 60  0000 R CNN
+F 1 "D" V 4750 4350 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 4600 4400 60  0001 C CNN
+F 3 "" H 4600 4400 60  0000 C CNN
+	1    4600 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K5
+U 1 1 61446EAF
+P 2100 4800
+F 0 "K5" H 2100 5033 60  0000 C CNN
+F 1 "KEYSW" H 2100 4700 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 2100 4800 60  0001 C CNN
+F 3 "" H 2100 4800 60  0000 C CNN
+	1    2100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D5
+U 1 1 61446EB5
+P 1650 5100
+F 0 "D5" H 1522 5050 60  0000 R CNN
+F 1 "D" V 1800 5050 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 1650 5100 60  0001 C CNN
+F 3 "" H 1650 5100 60  0000 C CNN
+	1    1650 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K10
+U 1 1 61446EBB
+P 3100 4800
+F 0 "K10" H 3100 5033 60  0000 C CNN
+F 1 "KEYSW" H 3100 4700 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 3100 4800 60  0001 C CNN
+F 3 "" H 3100 4800 60  0000 C CNN
+	1    3100 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D10
+U 1 1 61446EC1
+P 2650 5100
+F 0 "D10" H 2522 5050 60  0000 R CNN
+F 1 "D" V 2800 5050 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 2650 5100 60  0001 C CNN
+F 3 "" H 2650 5100 60  0000 C CNN
+	1    2650 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K15
+U 1 1 61446EC7
+P 4050 4800
+F 0 "K15" H 4050 5033 60  0000 C CNN
+F 1 "KEYSW" H 4050 4700 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 4050 4800 60  0001 C CNN
+F 3 "" H 4050 4800 60  0000 C CNN
+	1    4050 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D15
+U 1 1 61446ECD
+P 3600 5100
+F 0 "D15" H 3472 5050 60  0000 R CNN
+F 1 "D" V 3750 5050 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 3600 5100 60  0001 C CNN
+F 3 "" H 3600 5100 60  0000 C CNN
+	1    3600 5100
+	-1   0    0    1   
+$EndComp
+$Comp
+L keyboard_parts:KEYSW K20
+U 1 1 61446ED3
+P 5050 4800
+F 0 "K20" H 5050 5033 60  0000 C CNN
+F 1 "KEYSW" H 5050 4700 60  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate" H 5050 4800 60  0001 C CNN
+F 3 "" H 5050 4800 60  0000 C CNN
+	1    5050 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:D D20
+U 1 1 61446ED9
+P 4600 5100
+F 0 "D20" H 4472 5050 60  0000 R CNN
+F 1 "D" V 4750 5050 60  0001 C CNN
+F 2 "keyboard_parts:D_SOD123" H 4600 5100 60  0001 C CNN
+F 3 "" H 4600 5100 60  0000 C CNN
+	1    4600 5100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1800 1750 1650 1750
+Wire Wire Line
+	1650 1750 1650 1900
+Wire Wire Line
+	2800 1750 2650 1750
+Wire Wire Line
+	2650 1750 2650 1900
+Wire Wire Line
+	3750 1750 3600 1750
+Wire Wire Line
+	3600 1750 3600 1900
+Wire Wire Line
+	4750 1750 4600 1750
+Wire Wire Line
+	4600 1750 4600 1900
+Wire Wire Line
+	1800 2550 1650 2550
+Wire Wire Line
+	1650 2550 1650 2700
+Wire Wire Line
+	2800 2550 2650 2550
+Wire Wire Line
+	2650 2550 2650 2700
+Wire Wire Line
+	3750 2550 3600 2550
+Wire Wire Line
+	3600 2550 3600 2700
+Wire Wire Line
+	4750 2550 4600 2550
+Wire Wire Line
+	4600 2550 4600 2700
+Wire Wire Line
+	4600 2100 4600 2150
+Wire Wire Line
+	4600 2150 3600 2150
+Wire Wire Line
+	1650 2100 1650 2150
+Connection ~ 1650 2150
+Wire Wire Line
+	1650 2150 1400 2150
+Wire Wire Line
+	2650 2100 2650 2150
+Connection ~ 2650 2150
+Wire Wire Line
+	2650 2150 1650 2150
+Wire Wire Line
+	3600 2100 3600 2150
+Connection ~ 3600 2150
+Wire Wire Line
+	3600 2150 2650 2150
+Wire Wire Line
+	2400 4800 2400 4100
+Connection ~ 2400 1750
+Wire Wire Line
+	2400 1750 2400 1350
+Connection ~ 2400 2550
+Wire Wire Line
+	2400 2550 2400 1750
+Connection ~ 2400 3300
+Wire Wire Line
+	2400 3300 2400 2550
+Connection ~ 2400 4100
+Wire Wire Line
+	2400 4100 2400 3300
+Wire Wire Line
+	1800 3300 1650 3300
+Wire Wire Line
+	1650 3300 1650 3450
+Wire Wire Line
+	2800 3300 2650 3300
+Wire Wire Line
+	2650 3300 2650 3450
+Wire Wire Line
+	3750 3300 3600 3300
+Wire Wire Line
+	3600 3300 3600 3450
+Wire Wire Line
+	4750 3300 4600 3300
+Wire Wire Line
+	1800 4100 1650 4100
+Wire Wire Line
+	1650 4100 1650 4250
+Wire Wire Line
+	2800 4100 2650 4100
+Wire Wire Line
+	2650 4100 2650 4250
+Wire Wire Line
+	3750 4100 3600 4100
+Wire Wire Line
+	3600 4100 3600 4250
+Wire Wire Line
+	4600 4100 4600 4250
+Wire Wire Line
+	4600 4100 4750 4100
+Wire Wire Line
+	1800 4800 1650 4800
+Wire Wire Line
+	1650 4800 1650 4950
+Wire Wire Line
+	2800 4800 2650 4800
+Wire Wire Line
+	2650 4800 2650 4950
+Wire Wire Line
+	3750 4800 3600 4800
+Wire Wire Line
+	3600 4800 3600 4950
+Wire Wire Line
+	4750 4800 4600 4800
+Wire Wire Line
+	4600 4800 4600 4950
+Wire Wire Line
+	4600 2900 4600 3000
+Wire Wire Line
+	1650 3000 1650 2900
+Wire Wire Line
+	1400 3000 1650 3000
+Connection ~ 1650 3000
+Wire Wire Line
+	1650 3000 2650 3000
+Wire Wire Line
+	2650 3000 2650 2900
+Connection ~ 2650 3000
+Wire Wire Line
+	2650 3000 3600 3000
+Wire Wire Line
+	3600 3000 3600 2900
+Connection ~ 3600 3000
+Wire Wire Line
+	3600 3000 4600 3000
+Wire Wire Line
+	4600 3300 4600 3450
+Wire Wire Line
+	4600 3650 4600 3750
+Wire Wire Line
+	4600 3750 3600 3750
+Wire Wire Line
+	1650 3650 1650 3750
+Connection ~ 1650 3750
+Wire Wire Line
+	1650 3750 1400 3750
+Wire Wire Line
+	2650 3650 2650 3750
+Connection ~ 2650 3750
+Wire Wire Line
+	2650 3750 1650 3750
+Wire Wire Line
+	3600 3650 3600 3750
+Connection ~ 3600 3750
+Wire Wire Line
+	3600 3750 2650 3750
+Wire Wire Line
+	4600 4450 4600 4550
+Wire Wire Line
+	4600 4550 3600 4550
+Wire Wire Line
+	4600 5150 4600 5250
+Wire Wire Line
+	4600 5250 3600 5250
+Wire Wire Line
+	3600 5150 3600 5250
+Connection ~ 3600 5250
+Wire Wire Line
+	3600 5250 2650 5250
+Wire Wire Line
+	2650 5150 2650 5250
+Connection ~ 2650 5250
+Wire Wire Line
+	2650 5250 1650 5250
+Wire Wire Line
+	1650 5150 1650 5250
+Connection ~ 1650 5250
+Wire Wire Line
+	1650 5250 1400 5250
+Wire Wire Line
+	3400 4800 3400 4100
+Connection ~ 3400 1750
+Wire Wire Line
+	3400 1750 3400 1350
+Connection ~ 3400 2550
+Wire Wire Line
+	3400 2550 3400 1750
+Connection ~ 3400 3300
+Wire Wire Line
+	3400 3300 3400 2550
+Connection ~ 3400 4100
+Wire Wire Line
+	3400 4100 3400 3300
+Wire Wire Line
+	4350 4800 4350 4100
+Connection ~ 4350 1750
+Connection ~ 4350 2550
+Wire Wire Line
+	4350 2550 4350 1750
+Connection ~ 4350 3300
+Wire Wire Line
+	4350 3300 4350 2550
+Connection ~ 4350 4100
+Wire Wire Line
+	4350 4100 4350 3300
+Wire Wire Line
+	5350 4800 5350 4100
+Connection ~ 5350 1750
+Wire Wire Line
+	5350 1750 5350 1350
+Connection ~ 5350 2550
+Wire Wire Line
+	5350 2550 5350 1750
+Connection ~ 5350 3300
+Wire Wire Line
+	5350 3300 5350 2550
+Connection ~ 5350 4100
+Wire Wire Line
+	5350 4100 5350 3300
+Wire Wire Line
+	4350 1350 4350 1750
+Text Label 2400 1350 0    50   ~ 0
+col0
+Text Label 3400 1350 0    50   ~ 0
+col1
+Text Label 4350 1350 0    50   ~ 0
+col2
+Text Label 5350 1350 0    50   ~ 0
+col3
+Text Label 1400 2150 0    50   ~ 0
+row0
+Text Label 1400 3000 0    50   ~ 0
+row1
+Text Label 1400 3750 0    50   ~ 0
+row2
+Text Label 1400 4550 0    50   ~ 0
+row3
+Text Label 1400 5250 0    50   ~ 0
+row4
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 614A7A03
+P 6200 1600
+F 0 "J1" H 6280 1592 50  0000 L CNN
+F 1 "Conn_01x04" H 6280 1501 50  0000 L CNN
+F 2 "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical" H 6200 1600 50  0001 C CNN
+F 3 "~" H 6200 1600 50  0001 C CNN
+	1    6200 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x05 J2
+U 1 1 614A86E4
+P 6200 2250
+F 0 "J2" H 6280 2292 50  0000 L CNN
+F 1 "Conn_01x05" H 6280 2201 50  0000 L CNN
+F 2 "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical" H 6200 2250 50  0001 C CNN
+F 3 "~" H 6200 2250 50  0001 C CNN
+	1    6200 2250
+	1    0    0    -1  
+$EndComp
+Text Label 6000 1500 2    50   ~ 0
+col0
+Text Label 6000 1600 2    50   ~ 0
+col1
+Text Label 6000 1700 2    50   ~ 0
+col2
+Text Label 6000 1800 2    50   ~ 0
+col3
+Text Label 6000 2050 2    50   ~ 0
+row0
+Text Label 6000 2150 2    50   ~ 0
+row1
+Text Label 6000 2250 2    50   ~ 0
+row2
+Text Label 6000 2350 2    50   ~ 0
+row3
+Text Label 6000 2450 2    50   ~ 0
+row4
+Wire Wire Line
+	3600 4450 3600 4550
+Connection ~ 3600 4550
+Wire Wire Line
+	3600 4550 2650 4550
+Wire Wire Line
+	2650 4450 2650 4550
+Connection ~ 2650 4550
+Wire Wire Line
+	2650 4550 1650 4550
+Wire Wire Line
+	1650 4450 1650 4550
+Connection ~ 1650 4550
+Wire Wire Line
+	1650 4550 1400 4550
+$Comp
+L LED:APA102-2020 D21
+U 1 1 61596ED3
+P 8300 1350
+F 0 "D21" H 8300 1831 50  0000 C CNN
+F 1 "APA102-2020" H 8300 1740 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 8350 1050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 8400 975 50  0001 L TNN
+	1    8300 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:APA102-2020 D23
+U 1 1 615A0B01
+P 8900 1350
+F 0 "D23" H 8900 1831 50  0000 C CNN
+F 1 "APA102-2020" H 8900 1740 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 8950 1050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 9000 975 50  0001 L TNN
+	1    8900 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:APA102-2020 D25
+U 1 1 615A3DB6
+P 9500 1350
+F 0 "D25" H 9500 1831 50  0000 C CNN
+F 1 "APA102-2020" H 9500 1740 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 9550 1050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 9600 975 50  0001 L TNN
+	1    9500 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:APA102-2020 D27
+U 1 1 615AEF30
+P 10100 1350
+F 0 "D27" H 10100 1831 50  0000 C CNN
+F 1 "APA102-2020" H 10100 1740 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 10150 1050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 10200 975 50  0001 L TNN
+	1    10100 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:APA102-2020 D28
+U 1 1 615C1D26
+P 10100 2100
+F 0 "D28" H 10100 2581 50  0000 C CNN
+F 1 "APA102-2020" H 10100 2490 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 10150 1800 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 10200 1725 50  0001 L TNN
+	1    10100 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED:APA102-2020 D26
+U 1 1 615C1D2C
+P 9500 2100
+F 0 "D26" H 9500 2581 50  0000 C CNN
+F 1 "APA102-2020" H 9500 2490 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 9550 1800 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 9600 1725 50  0001 L TNN
+	1    9500 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED:APA102-2020 D24
+U 1 1 615C1D32
+P 8900 2100
+F 0 "D24" H 8900 2581 50  0000 C CNN
+F 1 "APA102-2020" H 8900 2490 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 8950 1800 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 9000 1725 50  0001 L TNN
+	1    8900 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L LED:APA102-2020 D22
+U 1 1 615C1D38
+P 8300 2100
+F 0 "D22" H 8300 2581 50  0000 C CNN
+F 1 "APA102-2020" H 8300 2490 50  0000 C CNN
+F 2 "LED_SMD:LED-APA102-2020" H 8350 1800 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 8400 1725 50  0001 L TNN
+	1    8300 2100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 615CFA0E
+P 7350 1400
+F 0 "J3" H 7430 1392 50  0000 L CNN
+F 1 "Conn_01x04" H 7430 1301 50  0000 L CNN
+F 2 "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical" H 7350 1400 50  0001 C CNN
+F 3 "~" H 7350 1400 50  0001 C CNN
+	1    7350 1400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7550 1200 7550 1050
+Wire Wire Line
+	7550 1050 8300 1050
+Wire Wire Line
+	8300 1050 8900 1050
+Connection ~ 8300 1050
+Connection ~ 8900 1050
+Wire Wire Line
+	8900 1050 9500 1050
+Connection ~ 9500 1050
+Wire Wire Line
+	9500 1050 10100 1050
+Wire Wire Line
+	7550 1300 7800 1300
+Wire Wire Line
+	7800 1300 7800 1250
+Wire Wire Line
+	7800 1250 8000 1250
+Wire Wire Line
+	7600 1400 7850 1400
+Wire Wire Line
+	7850 1400 7850 1350
+Wire Wire Line
+	7850 1350 8000 1350
+Wire Wire Line
+	7550 1500 7950 1500
+Wire Wire Line
+	7950 1500 7950 1650
+Wire Wire Line
+	7950 1650 8300 1650
+Wire Wire Line
+	8300 1650 8900 1650
+Connection ~ 8300 1650
+Connection ~ 8900 1650
+Wire Wire Line
+	8900 1650 9500 1650
+Connection ~ 9500 1650
+Wire Wire Line
+	9500 1650 10100 1650
+Wire Wire Line
+	10100 1650 10200 1650
+Wire Wire Line
+	10200 1650 10200 1800
+Wire Wire Line
+	10200 1800 10100 1800
+Connection ~ 10100 1650
+Wire Wire Line
+	10100 1800 9500 1800
+Connection ~ 10100 1800
+Connection ~ 8900 1800
+Wire Wire Line
+	8900 1800 8300 1800
+Connection ~ 9500 1800
+Wire Wire Line
+	9500 1800 8900 1800
+Wire Wire Line
+	10400 1350 10400 2100
+Wire Wire Line
+	10400 1250 10450 1250
+Wire Wire Line
+	10450 1250 10450 2200
+Wire Wire Line
+	10450 2200 10400 2200
+Wire Wire Line
+	10100 1050 10500 1050
+Wire Wire Line
+	10500 1050 10500 2400
+Wire Wire Line
+	10500 2400 10100 2400
+Connection ~ 10100 1050
+Connection ~ 8900 2400
+Wire Wire Line
+	8900 2400 8300 2400
+Connection ~ 9500 2400
+Wire Wire Line
+	9500 2400 8900 2400
+Connection ~ 10100 2400
+Wire Wire Line
+	10100 2400 9500 2400
+NoConn ~ 8000 2100
+NoConn ~ 8000 2200
+NoConn ~ 5950 400 
+$Comp
+L keyboard_parts:ATMEGA32U4 U1
+U 1 1 616231F8
+P 7350 4700
+F 0 "U1" H 7375 6037 60  0000 C CNN
+F 1 "ATMEGA32U4" H 7375 5931 60  0000 C CNN
+F 2 "keyboard_parts:QFP44" H 7350 4700 60  0001 C CNN
+F 3 "" H 7350 4700 60  0000 C CNN
+	1    7350 4700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
